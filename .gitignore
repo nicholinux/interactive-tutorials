@@ -3,8 +3,9 @@
 .DS_Store
 learnpython_env/
 
-.vscode/
 venv
 app.env
 
 .DS_Store
+config.bat
+node_modules
